@@ -10,6 +10,6 @@ try:
     else:
         print(result)
 except ValueError:
-    print("Tu veux pas grandir.")
+    print("Erreur.")
 except ZeroDivisionError:
     print("0 ne peut pas être calculé via une puissance négative.")

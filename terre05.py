@@ -14,6 +14,6 @@ try:
     else:
         print("Quotient =", quotient, "Reste =", reste)
 except ValueError:
-    print("Un nombre stp.")
+    print("Erreur. Un nombre.")
 # 0 ou un négatif au deuxieme nombre = soft lock.
 # https://www.youtube.com/watch?v=xCBOvHL2seU

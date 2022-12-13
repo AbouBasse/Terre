@@ -6,5 +6,5 @@ try:
     nbr_ult = int(input("Saisi un nombre: "))
     print(sqrt(nbr_ult))
 except ValueError:
-    print("Arrête tes betises.")
+    print("Erreur.")
 # https://www.youtube.com/watch?v=xvyw83pzikE 8min36
